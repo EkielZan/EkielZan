@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EkielZan
-- 👀 I’m interested in homelab, golang, docker, k8s
+- 👀 I’m interested in self-hosted software, homelab, golang, docker, k8s, monitoring
 - 🌱 I’m currently learning golang
 - 📫 How to reach me : See https://www.ekielzan.com/
 
